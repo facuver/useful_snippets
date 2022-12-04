@@ -1,3 +1,6 @@
+#### RUN ON MICROPYTHON BOARD
+#### WILL DELETE ALL FILES
+
 import os
 
 
