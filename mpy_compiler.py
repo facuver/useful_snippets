@@ -1,3 +1,8 @@
+### require mpy-cross 
+### compile all file to bytecode and save it to the ./dist folder 
+
+
+
 import mpy_cross
 from distutils.dir_util import copy_tree
 import time
